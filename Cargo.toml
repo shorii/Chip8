@@ -3,5 +3,4 @@
 members = [
   "chip-8",
   "console",
-  "interpreter",
 ]
